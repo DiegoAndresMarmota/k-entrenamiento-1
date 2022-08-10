@@ -3,6 +3,12 @@
     background-color: #282C34;
 }
 
+@media (min-width: 992px) {
+    .altura {
+        height: 100vh;
+    }
+}
+
 .row {
     height: 500px;
     width: 1000px;
